@@ -1,6 +1,5 @@
 # crpcn
 A random password generator  
-Rename the executable to **"crpcn"** after you download it.  
 - Usage: crpcn -[options] [numberofcharacters] [numberofpasswords]  
 	- Options:  
      	- -l   Include lowercase  
